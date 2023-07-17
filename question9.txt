@@ -1,0 +1,9 @@
+what are self closing tags ? and brief note on meta tags
+
+Answer:- Self closing tags are those tag which tags no need to close they are like <br /> and <hr />and many more these type of tags no need to colse manually so these tags are self closing tags 
+
+Meta tags ?
+
+meta tags are those types of tags whcih helps to know about search engine and clients to know about the webpage that what actually webpages contains 
+
+Meta tags used in HTML which includes title of the webpages and description of the webpages , keywords of the webpages and also who is the authour of the webpages 

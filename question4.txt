@@ -1,0 +1,7 @@
+question 4 :- List out there tags that we learn this module 
+
+Answer :- the tags are given below that web learn in this module 
+
+<p></p> this is paragraph tag that we learn in this module and it helps to write the paragraph in HTML 
+<h1></h1>this is HTML tag that use to make text highlight and make it heading and subheading in the HTML document 
+<div></div>this is Div tag that use to create a simple container in HTML and use to create a simple container where we can add text , images and other content .

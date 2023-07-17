@@ -1,0 +1,19 @@
+short note on tags,elements , and attributes along with relevant examples
+
+Ans:- HTML tag is use to hold the html elements and html elements hold the content and attributes helps to describe the content that are hold by elements
+
+1 . tags 
+tags are used in html and in html 3 most impotant tags that are like 
+<p>this is paragraph tag</p>in this example <p>this ia a opening tag </p>this is closing tag and rest (this is a pragraph tag) are content .
+
+2 . elements
+
+an Html elements tags define as by there starting tag some content and closing tag , for example 
+<h1>This is heading tag</h1>
+
+3 . attributes
+
+Attributes elements tags are used to provides additional information about the tag for example
+<a href="http://www.youtube.com">Youtube</a> 
+in this example the attribute is use to provides additional information about the youtube that when any person click on youtube they will redirect to youtube webpage .
+in this example the attribute is use to provides additional information about the youtube that when any person click on youtube they will redirect to youtube webpage .
